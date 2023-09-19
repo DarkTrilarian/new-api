@@ -1,9 +1,7 @@
-# Instructions to get started
+# Something About Myself
 
-'npm install'
+'This is my first time using GitHub'
 
-'npm run'
+# Something Else About Myself
 
-# To run tests
-
-'npm run test'
+'I am from Milwaukee, Wisconsin USA'
